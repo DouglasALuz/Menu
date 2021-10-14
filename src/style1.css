@@ -38,6 +38,7 @@ h2 {
   margin: 0;
   font-weight: 800;
   color: #6d4c41;
+  font-variant: small-caps;
 }
 
 /* Make the name of each menu item appear in bold in a 20px size. */

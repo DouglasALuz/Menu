@@ -32,6 +32,8 @@ h1 {
 h2 {
   margin-top: 0;
   text-transform: capitalize;
+  font-variant: small-caps;
+}
 }
 
 /* Make the name of each menu item appear in bold in a 16px size. */
